@@ -1,1 +1,9 @@
-#Sample-ID	group_id	up_gene	up_chr	up_pos	up_loc	down_gene	down_chr	down_pos	down_loc	protocalT1	1	THADA	chr2		exon 30	LOC389473	chr7	23521997		RNA-SeqT2	1	THADA	chr2		exon 36	LOC389473	chr7	23521997		RNA-SeqT3	1	THADA	chr2		exon 29	LOC389473	chr7	23521997		RNA-SeqT4	1	THADA	chr2		exon 30	IGF2BP3	chr7		exon 3	RNA-SeqT4	1	THADA	chr2		exon 30	LOC389473	chr7	23521997		RNA-SeqT5	1	THADA	chr2		exon 28	LOC389473	chr7	23521997		RNA-SeqT6	1	THADA	chr2		exon 31	IGF2BP3	chr7		exon 2	RNA-SeqT7	1	THADA	chr2		intron 31	1.5kb upstream of IGF2BP3	chr7	23511508	upstream	DNA-Seq
+#Sample-ID	group_id	up_gene	up_chr	up_pos	up_loc	down_gene	down_chr	down_pos	down_loc	protocal
+T1	1	THADA	chr2		exon 30	LOC389473	chr7	23521997		RNA-Seq
+T2	1	THADA	chr2		exon 36	LOC389473	chr7	23521997		RNA-Seq
+T3	1	THADA	chr2		exon 29	LOC389473	chr7	23521997		RNA-Seq
+T4	1	THADA	chr2		exon 30	IGF2BP3	chr7		exon 3	RNA-Seq
+T4	1	THADA	chr2		exon 30	LOC389473	chr7	23521997		RNA-Seq
+T5	1	THADA	chr2		exon 28	LOC389473	chr7	23521997		RNA-Seq
+T6	1	THADA	chr2		exon 31	IGF2BP3	chr7		exon 2	RNA-Seq
+T7	1	THADA	chr2		intron 31	IGF2BP3	chr7	23511508	upstream	DNA-Seq
